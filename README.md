@@ -12,7 +12,7 @@
 <!-- YOUTUBE:START -->
 - [Stripe, Shipstation, Wordpress & Woo Tutorial ](https://www.youtube.com/watch?v=mA682B1UCmE)
 - [TodoList in React - React Tutorial](https://www.youtube.com/watch?v=LBobcN2uDIg)
-- [Node.js Deployment](https://www.youtube.com/watch?v=3BUYqUoIf1Y)
+- [Node.js VPS Deployment](https://www.youtube.com/watch?v=3BUYqUoIf1Y)
 - [Fullstack development in Wordpress - Wordpress Tutorial](https://www.youtube.com/watch?v=2yYPZdn2PUw)
 - [Free Wordpress Kickstart course](https://anbilarabi.com/learn/home/course/free-wordpress-course/6)
 <!-- YOUTUBE:END -->
