@@ -33,4 +33,8 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/bootstrap-4.svg" alt="bootstrap" width="22" height="22"/> 
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnaser&layout=compact&hide=html" alt="ahmadnaser" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadnaser&show_icons=true" alt="ahmadnaser" /></p>
+ 
 
