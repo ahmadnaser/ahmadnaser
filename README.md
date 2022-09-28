@@ -6,7 +6,7 @@
 - 🎥 Watch my tutorials on [YouTube](https://www.youtube.com/c/ahmadnaser)
 - 🎥 Watch my tutorials on [YouTube Arabic](https://www.youtube.com/c/anbilarabitube)
 - 📗 My courses on [Anbilarabi](https://anbilarabi.com/learn)
-- 🤔 I’m currently studying: [JAVA](https://youtu.be/xtLXBuCGTHY?t=1870)
+- 🤔 I’m currently teaching: [JAVA](https://youtu.be/xtLXBuCGTHY?t=1870)
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
